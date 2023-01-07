@@ -1,6 +1,11 @@
 # Android Development Learning Resources
 
-## Folder Structure and Basic Terminologies
+## Kotlin
+* [Book - HEAD FIRST KOTLIN (pdf)](https://www.pdfdrive.com/head-first-kotlin-e196919920.html)
+
+___
+
+## Android Folder Structure and Basic Terminologies
 * [Youtube - Ben Kadel](https://www.youtube.com/watch?v=h3ylwK6MINI)
 
 ___
