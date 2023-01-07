@@ -2,6 +2,7 @@
 
 ## Kotlin
 * [Book - HEAD FIRST KOTLIN (pdf)](https://www.pdfdrive.com/head-first-kotlin-e196919920.html)
+* [GitHub - Kotlin Basics](https://github.com/avinash3699/kotlin-basics)
 
 ___
 
