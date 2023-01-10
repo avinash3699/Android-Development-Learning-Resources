@@ -1,5 +1,9 @@
 # Android Development Learning Resources
 
+## Android Source Code and Documentation
+* [Source Code](https://cs.android.com/)
+* [Documentation](https://developer.android.com/docs)
+
 ## Kotlin
 * [Book - HEAD FIRST KOTLIN (pdf)](https://www.pdfdrive.com/head-first-kotlin-e196919920.html)
 * [GitHub - Kotlin Basics](https://github.com/avinash3699/kotlin-basics)
