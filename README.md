@@ -4,6 +4,8 @@
 * [Source Code](https://cs.android.com/)
 * [Documentation](https://developer.android.com/docs)
 
+___
+
 ## Kotlin
 * [Book - HEAD FIRST KOTLIN (pdf)](https://www.pdfdrive.com/head-first-kotlin-e196919920.html)
 * [GitHub - Kotlin Basics](https://github.com/avinash3699/kotlin-basics)
@@ -37,7 +39,7 @@ ___
     * [The Android Launch Mode Animated CheatSheet](https://itnext.io/the-android-launchmode-animated-cheatsheet-6657e5dd9b0f)
     * [Intent flags of activity](https://medium.com/swlh/truly-understand-tasks-and-back-stack-intent-flags-of-activity-2a137c401eca)
 * Slideshare
-    * [Manipulating Android tasks and back stack](https://www.slideshare.net/RanNachmany/manipulating-android-tasks-and-back-stack)s
+    * [Manipulating Android tasks and back stack](https://www.slideshare.net/RanNachmany/manipulating-android-tasks-and-back-stack)
 
 ___
 
