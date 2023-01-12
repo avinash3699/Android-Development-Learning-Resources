@@ -46,3 +46,11 @@ ___
 ## Fragments
 * YouTube Playlist
     * [Codetutor](https://www.youtube.com/playlist?list=PLfuE3hOAeWhZDH-wHD0BJsJl7PpEW-wN8)
+    
+___
+
+## Layouts
+
+* [Basics - Documentation](https://developer.android.com/develop/ui/views/layout/declaring-layout)
+* [UI Layouts Types - Tutorials Point](https://www.tutorialspoint.com/android/android_user_interface_layouts.htm)
+* [Grid View](https://abhiandroid.com/ui/gridview)
