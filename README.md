@@ -50,8 +50,13 @@ ___
 ___
 
 ## Layouts
-
 * [Basics - Documentation](https://developer.android.com/develop/ui/views/layout/declaring-layout)
 * [UI Layouts Types - Tutorials Point](https://www.tutorialspoint.com/android/android_user_interface_layouts.htm)
 * [Layout Design - edureka (YouTube)](https://www.youtube.com/watch?v=PJ3RdfJ4Np8)
 * [Grid View](https://abhiandroid.com/ui/gridview)
+
+___
+
+##  Support different pixel densities (Density-Independent Pixels)
+* [Documentation](https://developer.android.com/training/multiscreen/screendensities)
+* [YouTube - Android Developers](https://www.youtube.com/watch?v=zhszwkcay2A&t=6s)
