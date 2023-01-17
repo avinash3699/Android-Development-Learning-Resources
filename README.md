@@ -66,3 +66,9 @@ ___
 ## Threads
 * [Processes and threads overview - Documentation](https://developer.android.com/guide/components/processes-and-threads)
 * [YouTube Playlist - Codetutor](https://www.youtube.com/playlist?list=PLfuE3hOAeWhYspjqABfkf97AzW1XNXgjZ)
+
+___ 
+
+## ThreadPools
+* [Introduction to Thread Pools - Baeldung](https://www.baeldung.com/thread-pool-java-and-guava)
+* [Creating a Thread Pool in Kotlin - Baeldung](https://www.baeldung.com/kotlin/create-thread-pool)
