@@ -57,6 +57,12 @@ ___
 
 ___
 
-##  Support different pixel densities (Density-Independent Pixels)
+## Support different pixel densities (Density-Independent Pixels)
 * [Documentation](https://developer.android.com/training/multiscreen/screendensities)
 * [YouTube - Android Developers](https://www.youtube.com/watch?v=zhszwkcay2A&t=6s)
+
+___
+
+## Threads
+* [Processes and threads overview - Documentation](https://developer.android.com/guide/components/processes-and-threads)
+* [YouTube Playlist - Codetutor](https://www.youtube.com/playlist?list=PLfuE3hOAeWhYspjqABfkf97AzW1XNXgjZ)
