@@ -67,6 +67,10 @@ ___
 * [Processes and threads overview - Documentation](https://developer.android.com/guide/components/processes-and-threads)
 * [YouTube Playlist - Codetutor](https://www.youtube.com/playlist?list=PLfuE3hOAeWhYspjqABfkf97AzW1XNXgjZ)
 
+___
+
+## Understanding Message Queue — What every Android Developer Needs to Know
+* [Medium Post](https://medium.com/@qingzhong/understanding-message-queue-what-every-android-developer-needs-to-know-3490f4f48591)
 ___ 
 
 ## ThreadPools
