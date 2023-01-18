@@ -71,6 +71,11 @@ ___
 
 ## Understanding Message Queue — What every Android Developer Needs to Know
 * [Medium Post](https://medium.com/@qingzhong/understanding-message-queue-what-every-android-developer-needs-to-know-3490f4f48591)
+
+___
+
+## How Android Starts Your Main Activity
+* [Medium Post](https://medium.com/martinomburajr/android-internals-1-how-android-starts-your-main-activity-8fcf80e65222)
 ___ 
 
 ## ThreadPools
