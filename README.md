@@ -81,3 +81,9 @@ ___
 ## ThreadPools
 * [Introduction to Thread Pools - Baeldung](https://www.baeldung.com/thread-pool-java-and-guava)
 * [Creating a Thread Pool in Kotlin - Baeldung](https://www.baeldung.com/kotlin/create-thread-pool)
+
+___
+
+## Recycler View
+* [YouTube - CodingWithMitch](https://www.youtube.com/watch?v=Jo6Mtq7zkkg)
+* [YouTube Playlist - CodingWithMitch](https://www.youtube.com/playlist?list=PLgCYzUzKIBE-4SBxHzntuDDEREffjyoUj)
