@@ -87,3 +87,8 @@ ___
 ## Recycler View
 * [YouTube - CodingWithMitch](https://www.youtube.com/watch?v=Jo6Mtq7zkkg)
 * [YouTube Playlist - CodingWithMitch](https://www.youtube.com/playlist?list=PLgCYzUzKIBE-4SBxHzntuDDEREffjyoUj)
+
+___
+
+## View Bindings
+* [Use view binding to replace findViewById](https://medium.com/androiddevelopers/use-view-binding-to-replace-findviewbyid-c83942471fc)
