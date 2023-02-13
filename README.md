@@ -98,10 +98,6 @@ ___
 ## ViewModels
 * [ViewModel overview - Documentation](https://developer.android.com/topic/libraries/architecture/viewmodel.html)
 * [ViewModels : A Simple Example](https://medium.com/androiddevelopers/viewmodels-a-simple-example-ed5ac416317e)
-* Series - Medium
-   * [Part 1 - Getting the background](https://medium.com/androiddevelopers/coroutines-on-android-part-i-getting-the-background-3e0e54d20bb)
-   * [Part 2 - Getting started](https://medium.com/androiddevelopers/coroutines-on-android-part-ii-getting-started-3bff117176dd)
-   * [Part 3 - Real work](https://medium.com/androiddevelopers/coroutines-on-android-part-iii-real-work-2ba8a2ec2f45)
    
 ___
 
@@ -109,3 +105,8 @@ ___
 * YouTube
    * [2 Hours Video - Smartherd](https://www.youtube.com/watch?v=lmRzRKIsn1g)
    * [Playlist - Philipp Lackner](https://www.youtube.com/watch?v=ShNhJ3wMpvQ&list=PLQkwcJG4YTCQcFEPuYGuv54nYai_lwil_)
+* Medium
+   * Coroutines on Android - Series
+      * [Part 1 - Getting the background](https://medium.com/androiddevelopers/coroutines-on-android-part-i-getting-the-background-3e0e54d20bb)
+      * [Part 2 - Getting started](https://medium.com/androiddevelopers/coroutines-on-android-part-ii-getting-started-3bff117176dd)
+      * [Part 3 - Real work](https://medium.com/androiddevelopers/coroutines-on-android-part-iii-real-work-2ba8a2ec2f45)
