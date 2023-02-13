@@ -92,3 +92,10 @@ ___
 
 ## View Bindings
 * [Use view binding to replace findViewById](https://medium.com/androiddevelopers/use-view-binding-to-replace-findviewbyid-c83942471fc)
+
+___
+
+## Coroutine
+* YouTube
+   * [2 Hours Video - Smartherd](https://www.youtube.com/watch?v=lmRzRKIsn1g)
+   * [Playlist - Philipp Lackner](https://www.youtube.com/watch?v=ShNhJ3wMpvQ&list=PLQkwcJG4YTCQcFEPuYGuv54nYai_lwil_)
