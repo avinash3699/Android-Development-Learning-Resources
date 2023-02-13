@@ -95,6 +95,11 @@ ___
 
 ___
 
+## ViewModels
+* [ViewModels : A Simple Example](https://medium.com/androiddevelopers/viewmodels-a-simple-example-ed5ac416317e)
+
+___
+
 ## Coroutine
 * YouTube
    * [2 Hours Video - Smartherd](https://www.youtube.com/watch?v=lmRzRKIsn1g)
