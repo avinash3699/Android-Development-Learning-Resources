@@ -106,6 +106,7 @@ ___
    * [2 Hours Video - Smartherd](https://www.youtube.com/watch?v=lmRzRKIsn1g)
    * [Playlist - Philipp Lackner](https://www.youtube.com/watch?v=ShNhJ3wMpvQ&list=PLQkwcJG4YTCQcFEPuYGuv54nYai_lwil_)
 * Medium
+   * [Kotlin Coroutines - So that you async in Android | What, Why & How?](https://medium.com/microsoft-mobile-engineering/kotlin-coroutines-1c8e009cb711)
    * Coroutines on Android - Series
       * [Part 1 - Getting the background](https://medium.com/androiddevelopers/coroutines-on-android-part-i-getting-the-background-3e0e54d20bb)
       * [Part 2 - Getting started](https://medium.com/androiddevelopers/coroutines-on-android-part-ii-getting-started-3bff117176dd)
