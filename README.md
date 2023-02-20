@@ -85,6 +85,8 @@ ___
 ___
 
 ## Recycler View
+
+* [Blog - Introduction to RecyclerView](https://enoent.fr/posts/recyclerview-basics/)
 * [YouTube - CodingWithMitch](https://www.youtube.com/watch?v=Jo6Mtq7zkkg)
 * [YouTube Playlist - CodingWithMitch](https://www.youtube.com/playlist?list=PLgCYzUzKIBE-4SBxHzntuDDEREffjyoUj)
 
