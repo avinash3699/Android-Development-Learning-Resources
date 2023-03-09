@@ -120,3 +120,4 @@ ___
 * Medium
    * [Intents in Android 101 : all you need to know](https://shubham-nikam.medium.com/intents-in-android-all-intents-5c102e1e0a48)
    * [All Things You Need To Know About Intent In Android Development](https://medium.com/@huseyinozkoc/all-things-you-need-to-know-about-intent-in-android-development-cb299b6b5918) 
+   * [Making Sense of Intent Filters in Android 13](https://medium.com/androiddevelopers/making-sense-of-intent-filters-in-android-13-8f6656903dde)
