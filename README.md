@@ -26,6 +26,11 @@ ___
 ## The Activity Lifecycle
 * [Youtube - Coding in Flow](https://www.youtube.com/watch?v=UJN3AL4tiqw)
 * [Complete Android Fragment & Activity Lifecycle](https://github.com/xxv/android-lifecycle)
+
+___
+
+## The Fragment Lifecycle
+* [Fragment lifecycle while doing .add and .replace](https://vinodpattanshetti49.medium.com/fragment-lifecycle-while-doing-add-and-replace-6a3f084364af)
 ___
 
 ## Activities, Tasks & Stacks
