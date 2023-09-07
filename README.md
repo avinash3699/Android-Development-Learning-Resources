@@ -51,7 +51,8 @@ ___
 ## Fragments
 * YouTube Playlist
     * [Codetutor](https://www.youtube.com/playlist?list=PLfuE3hOAeWhZDH-wHD0BJsJl7PpEW-wN8)
-    
+* [Fragment Transactions & Activity State Loss](https://www.androiddesignpatterns.com/2013/08/fragment-transaction-commit-state-loss.html)
+   
 ___
 
 ## Layouts
