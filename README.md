@@ -135,3 +135,4 @@ ___
 ## Content Providers & Content Resolvers
 * [Android Content Providers](https://www.codingninjas.com/studio/library/android-content-providers)
 * [Content Providers & Content Resolvers](https://www.androiddesignpatterns.com/2012/06/content-resolvers-and-content-providers.html)
+* [SQLite, Content Providers, & Thread Safety](https://www.androiddesignpatterns.com/2012/10/sqlite-contentprovider-thread-safety.html)
