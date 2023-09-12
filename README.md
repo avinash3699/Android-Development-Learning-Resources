@@ -136,3 +136,9 @@ ___
 * [Android Content Providers](https://www.codingninjas.com/studio/library/android-content-providers)
 * [Content Providers & Content Resolvers](https://www.androiddesignpatterns.com/2012/06/content-resolvers-and-content-providers.html)
 * [SQLite, Content Providers, & Thread Safety](https://www.androiddesignpatterns.com/2012/10/sqlite-contentprovider-thread-safety.html)
+
+___
+
+## Measuring Elapsed Time
+* [Measuring Elapsed Time in Kotlin](https://www.baeldung.com/kotlin/measure-elapsed-time#conclusion)
+* [Measuring execution times in Kotlin](https://proandroiddev.com/measuring-execution-times-in-kotlin-460a0285e5ea)
