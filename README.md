@@ -149,5 +149,5 @@ ___
 ___
 
 ## Measuring Elapsed Time
-* [Measuring Elapsed Time in Kotlin](https://www.baeldung.com/kotlin/measure-elapsed-time#conclusion)
+* [Measuring Elapsed Time in Kotlin](https://www.baeldung.com/kotlin/measure-elapsed-time)
 * [Measuring execution times in Kotlin](https://proandroiddev.com/measuring-execution-times-in-kotlin-460a0285e5ea)
