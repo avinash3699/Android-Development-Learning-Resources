@@ -130,10 +130,17 @@ ___
    * [All Things You Need To Know About Intent In Android Development](https://medium.com/@huseyinozkoc/all-things-you-need-to-know-about-intent-in-android-development-cb299b6b5918) 
    * [Making Sense of Intent Filters in Android 13](https://medium.com/androiddevelopers/making-sense-of-intent-filters-in-android-13-8f6656903dde)
 * YouTube
-   * [Intents & Intent Filters - Philipp Lackner](https://www.youtube.com/watch?v=2hIY1xuImuQ)
+   * [Intents & Intent Filters](https://www.youtube.com/watch?v=2hIY1xuImuQ) (Philipp Lackner)
 
 ___
 
+## Broadcasts & Broadcast Receivers
+* Documentation
+   * [Broadcasts overview](https://developer.android.com/guide/components/broadcasts)
+* YouTube
+   * [Broadcasts & Broadcast Receivers](https://www.youtube.com/watch?v=HDVyFsFUuVg) (Philipp Lackner)
+
+___
 ## Content Providers & Content Resolvers
 * [Android Content Providers](https://www.codingninjas.com/studio/library/android-content-providers)
 * [Content Providers & Content Resolvers](https://www.androiddesignpatterns.com/2012/06/content-resolvers-and-content-providers.html)
