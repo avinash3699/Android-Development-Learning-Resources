@@ -158,3 +158,5 @@ ___
 * Medium
    * [Jetpack Compose Basics — Part 1](https://proandroiddev.com/jetpack-compose-basics-26b62999ea9d)
    * [Jetpack Compose Basics — Part 2](https://proandroiddev.com/jetpack-compose-basics-part-2-79eb045a4397)
+* Stack OverFlow
+   * [What is the alternative to LinearLayout in Android Jetpack Compose?](https://stackoverflow.com/questions/65707293/what-is-the-alternative-to-linearlayout-in-android-jetpack-compose)
