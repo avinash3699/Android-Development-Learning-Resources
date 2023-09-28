@@ -151,3 +151,10 @@ ___
 ## Measuring Elapsed Time
 * [Measuring Elapsed Time in Kotlin](https://www.baeldung.com/kotlin/measure-elapsed-time)
 * [Measuring execution times in Kotlin](https://proandroiddev.com/measuring-execution-times-in-kotlin-460a0285e5ea)
+
+___
+
+## Jetpack Compose
+* Medium
+   * [Jetpack Compose Basics — Part 1](https://proandroiddev.com/jetpack-compose-basics-26b62999ea9d)
+   * [Jetpack Compose Basics — Part 2](https://proandroiddev.com/jetpack-compose-basics-part-2-79eb045a4397)
