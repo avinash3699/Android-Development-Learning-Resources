@@ -23,6 +23,10 @@ ___
 
 ___
 
+## Kotlin Compiler
+* [Kotlin Compiler Crash Course](https://github.com/ahinchman1/Kotlin-Compiler-Crash-Course/tree/master)
+___
+
 ## The Activity Lifecycle
 * [Youtube - Coding in Flow](https://www.youtube.com/watch?v=UJN3AL4tiqw)
 * [Complete Android Fragment & Activity Lifecycle](https://github.com/xxv/android-lifecycle)
