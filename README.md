@@ -164,3 +164,9 @@ ___
    * [Jetpack Compose Basics — Part 2](https://proandroiddev.com/jetpack-compose-basics-part-2-79eb045a4397)
 * Stack OverFlow
    * [What is the alternative to LinearLayout in Android Jetpack Compose?](https://stackoverflow.com/questions/65707293/what-is-the-alternative-to-linearlayout-in-android-jetpack-compose)
+
+___
+
+## Android Lint
+* [Improve your code with lint checks](https://developer.android.com/studio/write/lint) - Documentation
+* Formatting Code Analysis Rule with Android Lint - [Part 1](https://medium.com/p/4b906f717382) ; [Part 2](https://medium.com/supercharges-mobile-product-guide/formatting-code-analysis-rule-with-android-lint-part-2-2-9ac0f39043f1)
