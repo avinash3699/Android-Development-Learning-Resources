@@ -169,4 +169,5 @@ ___
 
 ## Android Lint
 * [Improve your code with lint checks](https://developer.android.com/studio/write/lint) - Documentation
+* [Android Lint API Guide](https://googlesamples.github.io/android-custom-lint-rules/api-guide.html)
 * Formatting Code Analysis Rule with Android Lint - [Part 1](https://medium.com/p/4b906f717382) ; [Part 2](https://medium.com/supercharges-mobile-product-guide/formatting-code-analysis-rule-with-android-lint-part-2-2-9ac0f39043f1)
