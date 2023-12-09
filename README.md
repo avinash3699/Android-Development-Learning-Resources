@@ -172,6 +172,7 @@ ___
 * [Android Lint API Guide](https://googlesamples.github.io/android-custom-lint-rules/api-guide.html)
 * [Implementing your first Android lint rule](https://proandroiddev.com/implementing-your-first-android-lint-rule-6e572383b292)
 * Formatting Code Analysis Rule with Android Lint - [Part 1](https://medium.com/p/4b906f717382) ; [Part 2](https://medium.com/supercharges-mobile-product-guide/formatting-code-analysis-rule-with-android-lint-part-2-2-9ac0f39043f1)
+* [Writing custom lint checks in Android](https://medium.com/@parthgupta48/writing-custom-lint-checks-in-android-6a7c2c090efa)
 * Sample Lint Codes
    * [Google Samples](https://github.com/googlesamples/android-custom-lint-rules)
    * [Fábio Carballo](https://github.com/fabiocarballo/lint-sample)
