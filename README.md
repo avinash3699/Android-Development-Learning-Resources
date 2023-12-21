@@ -145,11 +145,16 @@ ___
    * [Broadcasts & Broadcast Receivers](https://www.youtube.com/watch?v=HDVyFsFUuVg) (Philipp Lackner)
 
 ___
+
 ## Content Providers & Content Resolvers
 * [Android Content Providers](https://www.codingninjas.com/studio/library/android-content-providers)
 * [Content Providers & Content Resolvers](https://www.androiddesignpatterns.com/2012/06/content-resolvers-and-content-providers.html)
 * [SQLite, Content Providers, & Thread Safety](https://www.androiddesignpatterns.com/2012/10/sqlite-contentprovider-thread-safety.html)
 
+___
+
+## Dependency Injection
+* [Dagger 2 Beginner Tutorial(YouTube Playlist) - Coding in Flow](https://www.youtube.com/playlist?list=PLrnPJCHvNZuA2ioi4soDZKz8euUQnJW65)
 ___
 
 ## Measuring Elapsed Time
