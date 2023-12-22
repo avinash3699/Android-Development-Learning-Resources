@@ -158,6 +158,11 @@ ___
 * [Dagger 2 Beginner Tutorial(YouTube Playlist) - Coding in Flow](https://www.youtube.com/playlist?list=PLrnPJCHvNZuA2ioi4soDZKz8euUQnJW65)
 ___
 
+## Retrofit
+* [Retrofit— A simple Android tutorial](https://medium.com/@prakash_pun/retrofit-a-simple-android-tutorial-48437e4e5a23)
+  
+___
+
 ## Measuring Elapsed Time
 * [Measuring Elapsed Time in Kotlin](https://www.baeldung.com/kotlin/measure-elapsed-time)
 * [Measuring execution times in Kotlin](https://proandroiddev.com/measuring-execution-times-in-kotlin-460a0285e5ea)
