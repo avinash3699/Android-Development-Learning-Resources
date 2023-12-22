@@ -154,6 +154,7 @@ ___
 ___
 
 ## Dependency Injection
+* [Dagger 2 for Android Beginners - Medium Series](https://medium.com/@harivigneshjayapalan/dagger-2-for-android-beginners-introduction-be6580cb3edb)
 * [Dagger 2 Beginner Tutorial(YouTube Playlist) - Coding in Flow](https://www.youtube.com/playlist?list=PLrnPJCHvNZuA2ioi4soDZKz8euUQnJW65)
 ___
 
