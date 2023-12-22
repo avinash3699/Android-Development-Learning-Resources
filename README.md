@@ -160,7 +160,7 @@ ___
 
 ## Retrofit
 * [Retrofit— A simple Android tutorial](https://medium.com/@prakash_pun/retrofit-a-simple-android-tutorial-48437e4e5a23)
-  
+* Working with Retrofit - [Part 1](https://medium.com/android-news/working-with-retrofit2-part-1-943220e8d1e9) - [Part 2](https://medium.com/android-news/working-with-retrofit-825d30348fe2)  
 ___
 
 ## Measuring Elapsed Time
