@@ -188,3 +188,8 @@ ___
 * Sample Lint Codes
    * [Google Samples](https://github.com/googlesamples/android-custom-lint-rules)
    * [Fábio Carballo](https://github.com/fabiocarballo/lint-sample)
+
+___
+
+## Android Penetration Testing
+* [A step-by-step Android penetration testing guide for beginners](https://www.hackthebox.com/blog/intro-to-mobile-pentesting#1_local_data_storage_enumeration)
