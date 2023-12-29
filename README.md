@@ -161,7 +161,8 @@ ___
 ## Retrofit
 * [Retrofit— A simple Android tutorial](https://medium.com/@prakash_pun/retrofit-a-simple-android-tutorial-48437e4e5a23)
 * [Introduction to Retrofit - baeldung](https://www.baeldung.com/retrofit)
-* Working with Retrofit - [Part 1](https://medium.com/android-news/working-with-retrofit2-part-1-943220e8d1e9) - [Part 2](https://medium.com/android-news/working-with-retrofit-825d30348fe2)  
+* Working with Retrofit - [Part 1](https://medium.com/android-news/working-with-retrofit2-part-1-943220e8d1e9) - [Part 2](https://medium.com/android-news/working-with-retrofit-825d30348fe2)
+* [Retrofit 2 – Query and Path parameters](https://howtodoinjava.com/retrofit2/query-path-parameters/#:~:text=1.4.-,Optional%20query%20parameters,them%20while%20creating%20the%20request.)
 ___
 
 ## Measuring Elapsed Time
