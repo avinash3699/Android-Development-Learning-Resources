@@ -184,6 +184,10 @@ ___
 
 ___
 
+## Accessibility
+* [Accessibility in Android](https://medium.com/@paritasampa95/accessibility-in-android-f3261cf7112a)
+___
+
 ## Android Lint
 * [Improve your code with lint checks](https://developer.android.com/studio/write/lint) - Documentation
 * [Android Lint API Guide](https://googlesamples.github.io/android-custom-lint-rules/api-guide.html)
