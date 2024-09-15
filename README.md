@@ -199,6 +199,7 @@ ___
    * [Fábio Carballo](https://github.com/fabiocarballo/lint-sample)
 * [How to write custom lint rules to maintain naming conventions](https://baracoda.com/blog/custom-lint-rules)
 * [Baselines](https://googlesamples.github.io/android-custom-lint-rules/usage/baselines.md.html)
+* [Combining AGP With Newer Lint](https://googlesamples.github.io/android-custom-lint-rules/usage/newer-lint.md.html)
 ___
 
 ## Android Penetration Testing
