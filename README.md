@@ -86,7 +86,14 @@ ___
 
 ## How Android Starts Your Main Activity
 * [Medium Post](https://medium.com/martinomburajr/android-internals-1-how-android-starts-your-main-activity-8fcf80e65222)
+
 ___ 
+
+## Memory Management
+* [Java Garbage Collection Basics](https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html)
+* [How Does Kotlin Handle Memory Management and Garbage Collection?](https://appmaster.io/blog/kotlin-memory-management-and-garbage-collection)
+
+___
 
 ## ThreadPools
 * [Introduction to Thread Pools - Baeldung](https://www.baeldung.com/thread-pool-java-and-guava)
