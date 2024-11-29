@@ -92,6 +92,7 @@ ___
 ## Memory Management
 * [Java Garbage Collection Basics](https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html)
 * [How Does Kotlin Handle Memory Management and Garbage Collection?](https://appmaster.io/blog/kotlin-memory-management-and-garbage-collection)
+* [Finally understanding how references work in Android and Java](https://medium.com/google-developer-experts/finally-understanding-how-references-work-in-android-and-java-26a0d9c92f83)
 
 ___
 
